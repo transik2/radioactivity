@@ -87,6 +87,7 @@ header * {
 }
 
 .intro img {
+    height: 100%;
     max-height: 500px;
     border-radius: 10px;
     opacity: 90%;
@@ -170,6 +171,7 @@ header * {
 }
 
 .ushkyn-zhalpy {
+    width: 100%;
     max-width: 500px;
 }
 
@@ -178,7 +180,8 @@ header * {
 }
 
 .principe img {
-    width: 400px;
+    width: 100%;
+    max-width: 400px;
 }
 
 .importance {
